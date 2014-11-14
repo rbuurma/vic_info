@@ -1,4 +1,4 @@
-#  English 40: Victorian Literature + Victorian Informatics 
+#English 40: Victorian Literature + Victorian Informatics 
 - - -
 instructor: Rachel Sagner Buurma
 semester: Fall 2014
@@ -7,7 +7,7 @@ location: McCabe Library Video Classroom (third floor)
 - - -
 assignment: Indexing *In Memoriam A.H.H.*
 due: to platform of choice and to present informally in class, October 1, 2014
----
+- - -
 By this point in our exploration of Tennyson's *In Memoriam A.H.H.*, we have closely examined the poem's form; undertaken some individual and collective close readings of selected stanzas; and together constructed an overview of major themes and questions the poem contains and raises. We have also discussed *In Memoriam*'s problems of knowledge, asking, how does the poem present the question of knowledge - of the self, of others, of the world? How does the poem present *itself* as a knowledge problem? And how does it appear to us as a problem of knowledge? We have also collectively sketched out some possible, if partial, solutions to the problem of knowing *In Memoriam*. And we have introduced ourselves to some Victorian models of knowledge organization in the form of the index, looking at Henry Wheatley's writing about indexing and examining Charles Lutwidge Dodgson's index to *In Memoriam*. 
 
 For next week, the only two assignments are to reread (really!) *In Memoriam*, with one of two specific projects in mind. You may either
